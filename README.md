@@ -1,2 +1,2 @@
 # Reponsive-CSS
-10 modern responsive websites
+Some modern responsive websites with css
